@@ -1,0 +1,10 @@
+.card{
+    margin: 20px;
+    border: blue solid 2px;
+    border-radius: 5%;
+    background-color: lightblue;
+}
+.card:hover{
+    transition: all .5s ease-in-out;
+    transform: scale(1.1);
+}
